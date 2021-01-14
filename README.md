@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on finding a part-time remote job working in GIS or web development
+- 🔭 I’m currently working as Sr. Systems Engineer, GIS Focus for Motorola Solutions
 - 🌱 I’m currently learning more about CSS, Moodle and Drupal
 - 📫 How to reach me: raybrice2@gmail.com
 - ⚡ Fun fact: I also coach youth track and field, and basketball.  I am a Big Brother.  I brew beer and also compete in the Tucson Senior Olympics.  I am a NFHS Accredited Coach.
