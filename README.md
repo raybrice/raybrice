@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm currently working as an Adjunct Faculty teaching CIS courses at Pima Community College
+- I also work as a Basketball and Track Coach at Saints Peter & Paul Catholic School
+- I am the sports announcer for all indoor sports at Salpointe Catholic High School
 - 🔭 Previous employment as Sr. Systems Engineer, GIS Focus for Motorola Solutions
 - 🌱 I’m currently learning more about CSS, Moodle and Drupal
 - 📫 How to reach me: raybrice2@gmail.com
-- ⚡ Fun fact: I also coach youth track and field, and basketball.  I am a Big Brother.  I brew beer and also compete in the Tucson Senior Olympics.  I am a NFHS Accredited Coach.
+- ⚡ Fun fact: I brew beer and also compete in the Tucson Senior Olympics.  I am a NFHS Accredited Basketball Coach.
 - 💬 Ask me about Desert Tortoises (I have quite a few!)
