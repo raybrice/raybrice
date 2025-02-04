@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working as an Adjunct Faculty teaching CIS courses at Pima Community College
+- I'm currently working as an Adjunct Faculty teaching CIS courses at Pima Community College
 - 🔭 Previous employment as Sr. Systems Engineer, GIS Focus for Motorola Solutions
 - 🌱 I’m currently learning more about CSS, Moodle and Drupal
 - 📫 How to reach me: raybrice2@gmail.com
